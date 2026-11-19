@@ -34,3 +34,9 @@ __pycache__/
 *.log
 *.tmp
 
+# Local Python environments
+.venv-1/
+.venv*/
+
+# External benchmark repository
+/AutomaticFuzzyJoin/

@@ -1,0 +1,10 @@
+
+# Big Data Project: Efficient Semantic Joins
+
+autofj==0.0.6
+numpy==2.5.5
+pandas==3.1.1
+RapidFuzz==3.14.6
+sentence-transformers==6.3.0
+torch==2.15.0
+pyspark==4.3.0

@@ -1,0 +1,26 @@
+id_l,title_l,left_value,right_value,fuzzy_score,embedding_score,id_r,title_r
+4,2000 Tennis Masters Cup,2000 Tennis Masters Cup,2000 Tennis Masters Cup and ATP Tour World Championships,0.5822784810126582,0.8520594835281372,0,2000 Tennis Masters Cup and ATP Tour World Championships
+25,2008 Bell Challenge,2008 Bell Challenge,2008 Challenge Bell,0.736842105263158,0.9736905097961426,1,2008 Challenge Bell
+70,2009 Bell Challenge,2009 Bell Challenge,2009 Challenge Bell,0.736842105263158,0.9720942974090576,3,2009 Challenge Bell
+73,1996 Bell Challenge,1996 Bell Challenge,1996 Challenge Bell,0.736842105263158,0.971529483795166,4,1996 Challenge Bell
+75,1997 Bell Challenge,1997 Bell Challenge,1997 Challenge Bell,0.736842105263158,0.9692978262901306,5,1997 Challenge Bell
+83,1998 Bell Challenge,1998 Bell Challenge,1998 Challenge Bell,0.736842105263158,0.9757094383239746,6,1998 Challenge Bell
+84,2010 Challenger Banque Nationale,2010 Challenger Banque Nationale,2010 Challenger Banque Nationale de Rimouski,0.8421052631578947,0.8734170794487,7,2010 Challenger Banque Nationale de Rimouski
+115,2009 Carisap Tennis Cup,2009 Carisap Tennis Cup,2009 San Benedetto Tennis Cup,0.6923076923076923,0.7715603113174438,8,2009 San Benedetto Tennis Cup
+124,2010 MasterCard Tennis Cup,2010 MasterCard Tennis Cup,2010 Blu-express.com Tennis Cup,0.6666666666666667,0.7590432167053223,10,2010 Blu-express.com Tennis Cup
+131,2009 Zucchetti Kos Tennis Cup,2009 Zucchetti Kos Tennis Cup,2009 San Benedetto Tennis Cup,0.6896551724137931,0.7708473205566406,8,2009 San Benedetto Tennis Cup
+151,2010 Bell Challenge,2010 Bell Challenge,2010 Challenge Bell,0.736842105263158,0.9732819199562073,9,2010 Challenge Bell
+164,2010 BH Tennis Open International Cup,2010 BH Tennis Open International Cup,2010 Blu-express.com Tennis Cup,0.5294117647058824,0.7693820595741272,10,2010 Blu-express.com Tennis Cup
+169,2010 Tennislife Cup,2010 Tennislife Cup,2010 Blu-express.com Tennis Cup,0.6,0.8016988039016724,10,2010 Blu-express.com Tennis Cup
+187,2011 AEGON Championships,2011 AEGON Championships,2011 Aegon Championships,1.0,1.0000007152557373,12,2011 Aegon Championships
+188,2011 AEGON Classic,2011 AEGON Classic,2011 Aegon Classic,1.0,1.000000238418579,13,2011 Aegon Classic
+188,2011 AEGON Classic,2011 AEGON Classic,2011 Aegon Championships,0.7142857142857143,0.809522807598114,12,2011 Aegon Championships
+200,2011 Bell Challenge,2011 Bell Challenge,2011 Challenge Bell,0.736842105263158,0.9700356125831604,14,2011 Challenge Bell
+202,2011 National Bank Challenger Saguenay,2011 National Bank Challenger Saguenay,2011 Challenger Banque Nationale de Saguenay,0.6097560975609756,0.7641803026199341,15,2011 Challenger Banque Nationale de Saguenay
+229,2012 AEGON Championships,2012 AEGON Championships,2012 Aegon Championships,1.0,1.0000003576278687,17,2012 Aegon Championships
+261,2012 Bell Challenge,2012 Bell Challenge,2012 Challenge Bell,0.736842105263158,0.9725271463394165,18,2012 Challenge Bell
+267,2012 Hansol Korea Open,2012 Hansol Korea Open,2012 Korea Open,0.8108108108108109,0.8789229393005371,20,2012 Korea Open
+269,2012 ATP Challenger Trophy,2012 ATP Challenger Trophy,2012 Arimex Challenger Trophy,0.8727272727272728,0.7786767482757568,21,2012 Arimex Challenger Trophy
+284,2012 National Bank Challenger Saguenay,2012 National Bank Challenger Saguenay,2012 Challenger Banque Nationale de Saguenay,0.6097560975609756,0.7650464773178101,22,2012 Challenger Banque Nationale de Saguenay
+296,2012 AEGON Pro-Series Loughborough,2012 AEGON Pro-Series Loughborough,2012 Aegon Pro-Series Loughborough,1.0,1.000000238418579,23,2012 Aegon Pro-Series Loughborough
+319,2013 Challenger Banque Nationale,2013 Challenger Banque Nationale,2013 Challenger Banque Nationale de Rimouski,0.8421052631578947,0.8715106844902039,25,2013 Challenger Banque Nationale de Rimouski
