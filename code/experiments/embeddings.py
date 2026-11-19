@@ -84,3 +84,32 @@ pd.DataFrame(candidate_rows).to_csv(
 )
 
 print("\nSaved candidates to embedding_candidates.csv")
+
+
+# Inspect false positives
+print("\n=== FALSE POSITIVES ===")
+
+for row in candidate_rows:
+    pair = (row["id_l"], row["id_r"])
+
+    if (
+        pair in predicted_pairs
+        and pair not in true_pairs
+    ):
+        print(
+            f'{row["title_l"]}  -->  '
+            f'{row["title_r"]}  '
+            f'(similarity={row["similarity"]:.3f})'
+        )
+
+# Inspect missed matches
+print("\n=== FALSE NEGATIVES ===")
+
+for _, row in ground_truth.iterrows():
+    pair = (row["id_l"], row["id_r"])
+
+    if pair not in predicted_pairs:
+        print(
+            f'{row["title_l"]}  -->  '
+            f'{row["title_r"]}'
+        )
